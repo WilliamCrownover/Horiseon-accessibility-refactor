@@ -9,4 +9,16 @@ The goal of this project is to refactor an existing webpage for the marketing ag
 * Create a repository on Github that will document my refactor of an existing website
 * Copy the original website files to my repo
 * Clone the repo to my local machine to begin refactoring
-* 
+* Applied semantic elements to html
+    * Header
+        * Nav
+    * Figure
+    * Main
+        * Section
+        * Section
+        * Section
+    * Aside
+        * Section
+        * Section
+        * Section
+    * Footer
