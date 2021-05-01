@@ -6,9 +6,9 @@ The goal of this project is to refactor an existing webpage for the marketing ag
 
 ## Process
 
-* Create a repository on Github that will document my refactor of an existing website
-* Copy the original website files to my repo
-* Clone the repo to my local machine to begin refactoring
+* Created a repository on Github that will document my refactor of an existing website
+* Copied the original website files to my repo
+* Cloned the repo to my local machine to begin refactoring
 * Applied semantic elements to html
     * Header
         * Nav
@@ -22,3 +22,5 @@ The goal of this project is to refactor an existing webpage for the marketing ag
         * Section
         * Section
     * Footer
+* Checked that top navigation links work
+    * Added id="search-engine-optimization" to first section to fix link
