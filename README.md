@@ -31,5 +31,5 @@ The goal of this project was to refactor an existing webpage for the marketing a
 * Added a title to the hero background image as a supplemental alt attribute
 * Added accessible alt attributes to images
 * Updated the head webpage title to "Horiseon Marketing Solutions"
-* Consolidated CSS into semantic groups and removed unnecessary classes
+* Consolidated CSS into semantic groups and replaced unnecessary classes with element tags
 * Added comments to CSS for organizational purposes
