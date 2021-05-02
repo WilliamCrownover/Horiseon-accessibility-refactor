@@ -4,7 +4,7 @@
 
 https://williamcrownover.github.io/Horiseon-accessibility-refactor/
 
-![Horiseon Website Screenshot](./Develop/assets/images/oriseon-screenshot.jpg)
+![Horiseon Website Screenshot](./Develop/assets/images/Horiseon-screenshot.jpg)
 
 ## Goal
 
