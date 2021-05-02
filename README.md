@@ -26,3 +26,4 @@ The goal of this project was to refactor an existing webpage for the marketing a
     * Added id="search-engine-optimization" to first section to fix link
 * Added a title to the hero background image as a supplemental alt attribute
 * Added accessible alt attributes to images
+* Updated the head webpage title to "Horiseon Marketing Solutions"
