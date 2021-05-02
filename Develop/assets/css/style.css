@@ -1,24 +1,24 @@
-/* Global Default Styling */
+/** GLOBAL DEFAULT STYLES **/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* Body Styling */
+/** BODY STYLES **/
 body {
     background-color: #d9dcd6;
 }
 
-/* Header Styling */
-.header {
+/** HEADER STYLES **/
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
@@ -27,7 +27,7 @@ body {
     color: #d9dcd6;
 }
 
-.header nav {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -35,21 +35,25 @@ body {
     font-size: 20px;
 }
 
-.header nav ul li {
+header nav ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
 
+/** HYPERLINK STYLES **/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/** PARAGRAPH STYLES **/
 p {
     font-size: 16px;
 }
 
+/** IMAGE STYLES **/
+/* Hero Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,24 +63,27 @@ p {
     background-position: center;
 }
 
+/* Floated Image Left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Floated Image Right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-.content {
+/** MAIN CONTENT STYLES **/
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Aside Styling */
-.benefits {
+/** ASIDE STYLES **/
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -87,17 +94,17 @@ p {
     background-color: #2589bd;
 }
 
-.benefits section {
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefits section h3 {
+aside section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits section img {
+aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
