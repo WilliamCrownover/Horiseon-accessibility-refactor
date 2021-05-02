@@ -4,6 +4,8 @@
 
 https://williamcrownover.github.io/Horiseon-accessibility-refactor/
 
+![Horiseon Website Screenshot](./Develop/assets/images/oriseon-screenshot.jpg)
+
 ## Goal
 
 The goal of this project was to refactor an existing webpage for the marketing agency Horiseon to meet new and updated accessibility standards and optomize for search engines.
@@ -31,5 +33,5 @@ The goal of this project was to refactor an existing webpage for the marketing a
 * Added a title to the hero background image as a supplemental alt attribute
 * Added accessible alt attributes to images
 * Updated the head webpage title to "Horiseon Marketing Solutions"
-* Consolidated CSS into semantic groups and replaced unnecessary classes with element tags
+* Consolidated CSS into semantic groups and replaced unnecessary classes with element selectors
 * Added comments to CSS for organizational purposes
